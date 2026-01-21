@@ -1,2 +1,4 @@
 # Estudos
-Meu repositório para esstudos 
+Meu repositório para estudos 
+
+repositório criado durante uma aula 
