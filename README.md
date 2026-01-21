@@ -1,2 +1,2 @@
 # Estudos
-Meu repositório para esstudos 
+Meu repositório para estudos 
